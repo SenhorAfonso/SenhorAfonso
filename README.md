@@ -37,3 +37,4 @@
     
 </div>
 
+![Snake anination](https://github.com/SenhorAfonso/SenhorAFonso/blob/output/github-contribution-grid-snake.svg)
