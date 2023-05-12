@@ -1,4 +1,3 @@
-
 <h1>Olá! Você pode me chamar de Afonso 👋</h1>
 
 <p>
@@ -21,7 +20,9 @@
 
 <div style="margin-top: 12px; margin-left: 10px;">
 
-<p style="font-weight: 600;font-size: 120%;">Sente a pressão: </p>
+<h3 style="font-weight: 600;font-size: 120%;">Sente a pressão:</h3>
+
+
 <img style="margin-top: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sena_python" height="30px" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="senha_js" height="30px" width="40px">
     
