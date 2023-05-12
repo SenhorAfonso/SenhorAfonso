@@ -4,5 +4,8 @@
 - 📫 Contate-me no email: sirafonso005896@outlook.com
 - 😄 Pronomes: ele/dele
 
-[![Pedro Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenhorAfonso)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Pedro Afonso's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&theme=radical)](https://github.com/senhorafonso/github-readme-stats)
+[![Pedro Afonso's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&theme=gruvbox_light )](https://github.com/senhorafonso/github-readme-stats)
 
