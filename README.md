@@ -33,7 +33,7 @@
     
 <a href="https://www.linkedin.com/in/senhorafonso/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.instagram.com/sirafonso/"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://www.codewars.com/users/sirafonso"> <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"> </a>
     
 </div>
 
-![snake animation](https://github.com/SenhorAfonso/senhorafonso/blob/output/github-contibution-grid-snak.svg)
