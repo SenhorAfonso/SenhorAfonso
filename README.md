@@ -1,4 +1,3 @@
-
 <h1>Olá! Você pode me chamar de Afonso 👋</h1>
 
 <p>
@@ -21,6 +20,6 @@
 
 <div style="margin-top: 12px; margin-left: 10px;">
 
-<img src="python-logo.png" alt="python_logo" height="50px">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python_logo" height="50px">
     
 </div>
