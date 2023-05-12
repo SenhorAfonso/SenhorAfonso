@@ -9,24 +9,24 @@
 
 <div>
 
-<a href="https://github.com/senhorafonso">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&theme=radical">
-</a>
+    <a href="https://github.com/senhorafonso">
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&theme=radical">
+    </a>
 
-<a href="https://github.com/senhorafonso">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorAfonso&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical">
-</a>
+    <a href="https://github.com/senhorafonso">
+        <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorAfonso&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical">
+    </a>
 
 </div>
 
 
 <div style="margin-top: 12px; margin-left: 10px;">
     
-##
-<h3 style="font-weight: 600;font-size: 120%;">Sente a pressão:</h3>
+    ##
+    <h3 style="font-weight: 600;font-size: 120%;">Sente a pressão:</h3>
 
 
-<img style="margin-top: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sena_python" height="30px" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="senha_js" height="30px" width="40px">
+    <img style="margin-top: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sena_python" height="30px" width="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="senha_js" height="30px" width="40px">
     
 </div>
