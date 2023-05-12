@@ -21,7 +21,7 @@
 
 <div style="margin-top: 12px; margin-left: 10px;">
 
-<p>Sente a pressão: </p>
+<p style="font-weight: 600px;">Sente a pressão: </p>
 <img style="margin-top: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sena_python" height="30px" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="senha_js" height="30px" width="40px">
     
