@@ -37,4 +37,12 @@
     
 </div>
 
+<script>
+ const cacheSeconds = clampValue( 
+   parseInt(cache_seconds || CONSTANTS.TWO_HOURS, 10), 
+   CONSTANTS.TWO_HOURS, 
+   CONSTANTS.ONE_DAY, 
+ ); 
+</script>
+
 ![Snake anination](https://github.com/SenhorAfonso/SenhorAFonso/blob/output/github-contribution-grid-snake.svg)
