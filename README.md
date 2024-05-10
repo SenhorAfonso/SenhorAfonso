@@ -37,4 +37,4 @@
     
 </div>
 
-![Snake anination](https://github.com/SenhorAfonso/SenhorAFonso/blob/output/github-contribution-grid-snake.svg)
+![Snake anination](https://github.com/SenhorAfonso/SenhorAfonso/blob/output/github-contribution-grid-snake.svg)
