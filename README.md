@@ -23,8 +23,8 @@
 
 <div style="margin-top: 12px; margin-left: 10px;">
 
-<img style="margin-top: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="sena_python" height="30px" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="senha_js" height="30px" width="40px">
+<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="center" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -37,7 +37,6 @@
 <img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-<img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     
 </div>
 
