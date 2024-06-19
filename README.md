@@ -1,7 +1,8 @@
 <h1>Olá! Você pode me chamar de Afonso! ✨</h1>
 
 <p>
-    - 🌱 Estudando Python e JavaScript <br>
+    - ✨ NodeJs e Python <br>
+    - 📖 Estudando NodeJs e Inteligência Artificial <br>
     - 📫 Contate-me no email: sirafonso005896@outlook.com <br>
     - 😄 Pronomes: ele/dele
 </p>
@@ -38,3 +39,9 @@
 </div>
 
 ![Snake anination](https://github.com/SenhorAfonso/SenhorAfonso/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
