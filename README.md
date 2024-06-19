@@ -17,7 +17,7 @@
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorAfonso&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical">
 </a>
 
-</div> <!-- Distintivos -->
+</div>
 
 <h3>Sente a pressão: </h3>
 
@@ -42,7 +42,9 @@
 
 ##
 
-<div> <!-- Redes sociais-->
+<h3>Você vai me encontrar por aqui: </h3>
+
+<div> <!-- -->
     
 <a href="https://www.linkedin.com/in/senhorafonso/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.instagram.com/sirafonso/"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
