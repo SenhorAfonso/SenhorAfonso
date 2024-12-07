@@ -1,54 +1,60 @@
-<h1>Olá! Você pode me chamar de Afonso! ✨</h1>
+<h1>Hello, there! You can call me Afonso! ✨</h1>
 
 <p>
-    - ✨ NodeJs e Python <br>
-    - 📖 Estudando NodeJs e Inteligência Artificial <br>
-    - 📫 Contate-me no email: sirafonso005896@outlook.com <br>
-    - 😄 Pronomes: ele/dele
+    - ✨ Java, NodeJs and Python <br>
+    - 📖 Currently studying Spring Boot, Artificial Intelligence, Golang and C <br>
+    - 📫 Contact me: sirafonso005896@outlook.com <br>
 </p>
 
-<div> <!-- Status -->
-
-<a href="https://github.com/senhorafonso">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&theme=radical">
-</a>
-
-<a href="https://github.com/senhorafonso">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorAfonso&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical">
-</a>
-
+<div>
+  <a href="https://github.com/SenhorAfonso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenhorAfonso&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3>Sente a pressão: </h3>
+<h2 style="text-decoration: none;">Ranks:</h2>
 
-<div style="margin-top: 12px; margin-left: 10px;">
-
-<img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align="center" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img align="center" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img align="center" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<div> 
+    <img src="https://www.codewars.com/users/SenhorAfonso/badges/large" />
+    <br>
+    <br>
     
+[![LeetCode user SenhorAfonso](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSenhorAfonso&logo=leetcode&logoColor=yellow)](https://leetcode.com/SenhorAfonso/)
 </div>
 
 ##
 
-<h3>Você vai me encontrar por aqui: </h3>
+<div style="display: inline_block"><br>
+    <img alt="PedroSena-javascript" height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png">
+    <img alt="PedroSena-tensorflow" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+    <img alt="PedroSena-react" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img alt="PedroSena-typescript" height="40" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png">
+    <img alt="PedroSena-nodejs" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img alt="PedroSena-nodejs" height="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
+    <img alt="PedroSena-nestjs" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
+    <img alt="PedroSena-java" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img alt="PedroSena-spring" height="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+    <img alt="PedroSena-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="PedroSena-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="PedroSena-Mongo" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+    <img alt="PedroSena-postgre" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
+    <img alt="PedroSena-git" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg'>
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg'>
+    <img alt="PedroSena-github" height="40" src='https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg'>
+</div>
 
-<div> <!-- -->
-    
-<a href="https://www.linkedin.com/in/senhorafonso/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="https://www.codewars.com/users/sirafonso"> <img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"> </a>
-    
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/senhorafonso/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
 ![Snake anination](https://github.com/SenhorAfonso/SenhorAfonso/blob/output/github-contribution-grid-snake.svg)
