@@ -1,5 +1,5 @@
 <div>
-<h1>Hello, there! You can call me <img src="https://raw.githubusercontent.com/SenhorAfonso/SenhorAfonso/main/afonso-logo-transparente-sm.png?" />! ✨</h1>
+<h1>Hello, there! You can call me <img src="https://raw.githubusercontent.com/SenhorAfonso/SenhorAfonso/main/afonso-logo-transparente-sm.png??" />! ✨</h1>
 </div>
 
 <p>
