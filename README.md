@@ -1,4 +1,6 @@
+<div style="display: flex">
 <h1>Hello, there! You can call me <img src="https://raw.githubusercontent.com/SenhorAfonso/SenhorAfonso/main/afonso-logo-transparente.png" />! ✨</h1>
+</div>
 
 <p>
     - ✨ Java, NodeJs and Python <br>
