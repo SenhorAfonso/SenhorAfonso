@@ -1,4 +1,4 @@
-<h1>Hello, there! You can call me Afonso! ✨</h1>
+<h1>Hello, there! You can call me <img src="https://github-readme-stats.vercel.app/api?username=SenhorAfonso&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />! ✨</h1>
 
 <p>
     - ✨ Java, NodeJs and Python <br>
