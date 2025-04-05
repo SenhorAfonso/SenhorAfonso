@@ -1,4 +1,4 @@
-<h1>Hello, there! You can call me <img src="https://raw.githubusercontent.com/SenhorAfonso/SenhorAfonso/output/afonso-logo-transparente.svg" />! ✨</h1>
+<h1>Hello, there! You can call me <img src="https://raw.githubusercontent.com/SenhorAfonso/SenhorAfonso/output/afonso-logo-transparente.png" />! ✨</h1>
 
 <p>
     - ✨ Java, NodeJs and Python <br>
